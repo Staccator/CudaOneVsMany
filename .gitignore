@@ -4,3 +4,7 @@
 *.ptx
 *.cubin
 *.fatbin
+**/bin
+**/x64
+**/.vs
+output.csv
